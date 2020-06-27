@@ -1,8 +1,19 @@
-
+body{
+	background-color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1{
+	font-weight: bold;
+	color:white;
+}
 #nav-list{
    width:100%;
    background-color: yellow;
    text-align:center;
+}
+#nav-list li:hover{
+	font-weight: bold;
+	background-color: grey;
 }
 
 #column{
